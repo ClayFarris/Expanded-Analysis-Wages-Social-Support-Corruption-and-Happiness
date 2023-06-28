@@ -1,6 +1,9 @@
 ipykernel
-matplotlib                    
+matplotlib
+mpl_toolkits.mplot3d                    
 numpy                         
 pandas                        
 seaborn                       
 scipy                         
+
+https://docs.python.org/3/library/venv.html
