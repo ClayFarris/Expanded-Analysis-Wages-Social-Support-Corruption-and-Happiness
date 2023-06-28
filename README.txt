@@ -8,7 +8,7 @@ Questions:
 * What is the relationship between the average social support score for countries with relatively low minimum wage but high happiness scores as compared to the average social support score for countries with relatively high minimum wage and high happiness scores as well as to the average social support score for all countries?
 * What is the relationship between average social support scores and average happiness scores?
 * What is the relationship between social support, happiness scores and minimum wage?
-* What is the relationship between minimum wage and government corruption. Do countries with a relatively low minimum wage correlate significantly with higher levels of government corruption?
+* What is the relationship between minimum wage and government corruption? Do countries with a relatively low minimum wage correlate significantly with higher levels of government corruption?
 
 
 
