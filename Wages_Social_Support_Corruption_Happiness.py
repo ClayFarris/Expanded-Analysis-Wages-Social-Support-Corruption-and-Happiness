@@ -16,7 +16,7 @@
 # 
 # ##### * What is the relationship between social support, happiness scores and minimum wage? 
 #  
-# ##### * What is the relationship between minimum wage and government corruption.  Do countries with a relatively low minimum wage correlate significantly with higher levels of government corruption?
+# ##### * What is the relationship between minimum wage and government corruption?  Do countries with a relatively low minimum wage correlate significantly with higher levels of government corruption?
 # 
 
 # # Methodology
@@ -643,9 +643,9 @@ plt.show()
 # 
 # ##### *The correlation coefficient between the average minimum wage and social support is 0.363. This suggests a moderate positive correlation between these two variables. Higher minimum wages tend to be associated with higher levels of social support, but the relationship is not as strong as with the happiness score.
 # 
-# ##### * The p-value associated with the correlation between minimum wage and happiness score is 0.011. This indicates that the observed correlation is statistically significant at a significance level of 0.05. Therefore, we can reject the null hypothesis that there is no correlation between minimum wage and happiness score.
+# ##### * The p-value associated with the correlation between minimum wage and happiness score is 0.011. This indicates that the observed correlation is statistically significant.
 # 
-# ##### * The p-value associated with the correlation between minimum wage and social support is 0.044. This suggests that the observed correlation is statistically significant at a significance level of 0.05. 
+# ##### * The p-value associated with the correlation between minimum wage and social support is 0.044. This suggests that the observed correlation is also  statistically significant. 
 # 
 # 
 
@@ -747,13 +747,13 @@ plt.show()
 
 # # Conclusion
 
-# ##### *It's interesting to note that countries with low minimum wage, but high happiness had lower average social support scores than countries with high minimum wage and high happiness as well as the average social supprt scores for all countries.  It's possible these reults are due to the small sample size used in this study.  A larger sample sizae would be more appropriate.  
+# ##### It's interesting to note that countries with low minimum wage, but high happiness had lower average social support scores than countries with high minimum wage and high happiness as well as the average social support scores for all countries.  It's possible these results are due to the small sample size used in this study.  A larger sample size would be more appropriate.  
 # 
-# ##### * While there is a positive relationship between social support and happiness scores, this analysis does not establish a causal relationship. Other factors and variables not considered in this analysis could influence happiness scores.
+# ##### While there is a positive relationship between social support and happiness scores, this analysis does not establish a causal relationship. Other factors and variables not considered in this analysis could influence happiness scores.
 # 
-# ##### * The results indicate that there is a moderate positive correlation between minimum wage and both happiness score and social support. Higher minimum wages are associated with higher levels of happiness and social support, although the strength of the relationships is not extremely strong.
+# ##### The results indicate that there is a moderate positive correlation between minimum wage and both happiness score and social support. Higher minimum wages are associated with higher levels of happiness and social support, although the strength of the relationships is not extremely strong.
 # 
-# ##### *Overall, there is a moderate positive correlation between average minimum wage and government corruption, but the slope of the relationship is almost negligible.
+# ##### Overall, there is a moderate positive correlation between average minimum wage and government corruption, but the slope of the relationship is almost negligible.
 
 # ## Suggestions for Further Study
 
@@ -768,6 +768,8 @@ plt.show()
 # ##### Explore the relationship between happiness and other socioeconomic factors not present in these datasets such as income inequlity, education level and employment rate and how they interact with minimum wage.
 # 
 # ##### Explore the relationship between minimum wage and different demographic groups, such as age, gender and race to understand how it impacts happiness among these different groups.
+# 
+# ##### Compare happiness scores with other economic indicators such as the amount of GDP a country spends on social support.
 # 
 # 
 
