@@ -116,10 +116,20 @@ I used '.head()', '.info()', ','.describe()', '.isna().sum()', '.fillna()', '.so
 3. Visualize your data:
 I used matplotlib, mpl_toolkits.mplot3d, seaborn, and scipy.stats to create a bar chart, multiple scatterplots and to calculate the regression equation and p value, etc...
 
+4. Instructions for how to utilize a virtual environment are included in the Requirements.txt folder.
+
 5. Interpret your data:
 The interpretation of the data is included in the Markdown cells.  
 
 CONCLUSION:
+
+It's interesting to note that countries with low minimum wage, but high happiness had lower average social support scores than countries with high minimum wage and high happiness as well as the average social support scores for all countries.  It's possible these results are due to the small sample size used in this study.  A larger sample size would be more appropriate.  
+
+While there is a positive relationship between social support and happiness scores, this analysis does not establish a causal relationship. Other factors and variables not considered in this analysis could influence happiness scores.
+
+The results indicate that there is a moderate positive correlation between minimum wage and both happiness score and social support. Higher minimum wages are associated with higher levels of happiness and social support, although the strength of the relationships is not extremely strong.
+
+Overall, there is a moderate positive correlation between average minimum wage and government corruption, but the slope of the relationship is almost negligible.
 
 
 
