@@ -123,11 +123,11 @@ The interpretation of the data is included in the Markdown cells.
 
 CONCLUSION:
 
-It's interesting to note that countries with low minimum wage, but high happiness had lower average social support scores than countries with high minimum wage and high happiness as well as the average social support scores for all countries.  It's possible these results are due to the small sample size used in this study.  A larger sample size would be more appropriate.  
+It's interesting to note that countries with low minimum wages but high happiness had lower average social support scores compared to countries with high minimum wages and high happiness, as well as compared to the average social support scores for all countries.  It's possible these results are due to the small sample size used in this study.  A larger sample size would be more appropriate.  
 
-While there is a positive relationship between social support and happiness scores, this analysis does not establish a causal relationship. Other factors and variables not considered in this analysis could influence happiness scores.
+While there is a positive relationship between social support and happiness scores, this analysis does not establish a causal relationship. Other factors not considered in this analysis could influence happiness scores.
 
-The results indicate that there is a moderate positive correlation between minimum wage and both happiness score and social support. Higher minimum wages are associated with higher levels of happiness and social support, although the strength of the relationships is not extremely strong.
+The results indicate that there is a moderate positive correlation between minimum wage and both happiness score and social support. Higher minimum wages are associated with higher levels of happiness and social support, however, the relationship is not particularly strong. 
 
 Overall, there is a moderate positive correlation between average minimum wage and government corruption, but the slope of the relationship is almost negligible.
 
