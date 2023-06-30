@@ -23,6 +23,9 @@ To run this project it is necessary to do the following:
 
 Clone the repository to your local machine.
 
+If you would like to use a virtual environment, here is a link with the instructions:
+https://docs.python.org/3/library/venv.html 
+
 Navigate to the cloned repo folder in the terminal and run:
 
 	pip install -r requirements
